@@ -1,0 +1,14 @@
+{
+  "username": {
+    "required": "Nome é um campo obrigatório"
+  },
+  "dt_birthday": {
+    "typeError": "Data de Nascimento é um campo obrigatório"
+  },
+  "email": {
+    "required": "E-mail é um campo obrigatório"
+  },
+  "phone": {
+    "matches": "Telefone é um campo obrigatório"
+  }
+}
